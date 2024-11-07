@@ -36,8 +36,8 @@ Este proyecto es una aplicación web que permite a los usuarios tener el contro 
 
 ## Instalación
 
-1. Clona el repositorio Backend [Aquí](https://github.com/c-correa/technical-test-node.git).
-2. Clona el repositorio Frontend [Aquí](https://github.com/c-correa/technical-test-front.git).
+1. Clona el repositorio Backend [Aquí](https://github.com/c-correa/technical-test-api-node).
+2. Clona el repositorio Frontend [Aquí](https://github.com/c-correa/technical-test-front).
 3. Instala las dependencias con `npm install` o `npm install --legacy-peer-deps`.
 4. Inicia el proyecto con `npm run dev`.
 5. Tener instalado Node.js 20.11.0 o superior.
