@@ -40,6 +40,7 @@ Este proyecto es una aplicación web que permite a los usuarios tener el contro 
 2. Clona el repositorio Frontend [Aquí](https://github.com/c-correa/technical-test-front.git).
 3. Instala las dependencias con `npm install` o `npm install --legacy-peer-deps`.
 4. Inicia el proyecto con `npm run dev`.
+5. Tener instalado Node.js 20.11.0 o superior.
 
 ## Nota: Es un proyecto de Next.js 15, por lo que es necesario usar la opción `--legacy-peer-deps`.
 
